@@ -79,10 +79,11 @@ WSGI_APPLICATION = 'gaama.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'musics',
-        'USER':'postgres',
-        'PASSWORD':'12345',
-        'HOST':'Localhost',
+        'NAME':'dcm33j2kk9a5j4',
+        'USER':'ffyrhuvrgldrdh',
+        'PASSWORD':'0fafe453231184351f6ddd61816cc4d0f2a780b5bc61d4cd0cf398a7dddcae66',
+        'HOST':'ec2-44-196-44-90.compute-1.amazonaws.com',
+        'Port':5432
     }
 }
 
